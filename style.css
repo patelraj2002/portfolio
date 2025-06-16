@@ -589,7 +589,7 @@ footer p {
 }
 
 .tags span {
-    background: linear-gradient(135deg, #e50076af 0%, #f8f84bb0 100%);
+    background: linear-gradient(90deg, #E50076, #FF8000);
     color: white;
     padding: 0.3rem 0.8rem;
     border-radius: 20px;
